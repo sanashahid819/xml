@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bio [
+    <!ELEMENT bio (students*,empolyee*)>
+    <!ELEMENT students (name,age,qulification)>
+    <!ELEMENT empolyee (name,age,qulification,salary)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT age (#PCDATA)>
+    <!ELEMENT qulification (#PCDATA)>
+    <!ELEMENT salary (#PCDATA)>
+    <!ENTITY dtd "aptech shahra-e-faisal">
+]>
+<bio>
+    <students>
+        <name>&dtd;ali</name>
+        <age>22</age>
+        <qulification>MBA</qulification>
+    </students>
+
+
+    <empolyee>
+        <name>ali</name>
+        <age>22</age>
+        <qulification>MBA</qulification>
+        <salary>70000</salary>
+    </empolyee>
+
+</bio>

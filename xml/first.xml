@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE aptech[
+]>
+
+
+<aptech>
+    <faculty>
+        <name> sana</name>
+        <desigmation>senior faculty</desigmation>
+
+    </faculty>
+    <faculty2>
+        <name> ali</name>
+        <desigmation>senior faculty</desigmation>
+
+    </faculty2>
+    <faculty3>
+        <name> sara</name>
+        <desigmation>senior faculty</desigmation>
+
+    </faculty3>
+    <faculty4>
+        <name> sarah</name>
+        <desigmation>senior faculty</desigmation>
+
+    </faculty4>
+    <faculty5>
+        <name> anas</name>
+        <desigmation>senior faculty</desigmation>
+
+    </faculty5>
+    <faculty6>
+        <name> hamza</name>
+        <desigmation>senior faculty</desigmation>
+
+    </faculty6>
+    <faculty7>
+        <name> hina</name>
+        <desigmation>senior faculty</desigmation>
+
+    </faculty7>
+    <faculty8>
+        <name> hira</name>
+        <desigmation>senior faculty</desigmation>
+
+    </faculty8>
+    <faculty9>
+        <name> kinza</name>
+        <desigmation>senior faculty</desigmation>
+
+    </faculty9>
+    <faculty10>
+        <name> iman</name>
+        <desigmation>senior faculty</desigmation>
+
+    </faculty10>
+    <faculty11>
+        <name> mahnnor</name>
+        <desigmation>senior faculty</desigmation>
+
+    </faculty11>
+    <faculty11>
+        <name> adnan</name>
+        <desigmation>senior faculty</desigmation>
+
+    </faculty11>
+    <faculty12>
+        <name> fiza</name>
+        <desigmation>senior faculty</desigmation>
+
+    </faculty12>
+    <faculty13>
+        <name> sami</name>
+        <desigmation>senior faculty</desigmation>
+
+    </faculty13>
+    <faculty14>
+        <name> fasial</name>
+        <desigmation>senior faculty</desigmation>
+
+    </faculty14>
+    <faculty15>
+        <name> raza</name>
+        <desigmation>senior faculty</desigmation>
+
+    </faculty15>
+    <faculty16>
+        <name> azan</name>
+        <desigmation>senior faculty</desigmation>
+
+    </faculty16>
+    <faculty17>
+        <name>lucky</name>
+        <desigmation>senior faculty</desigmation>
+
+    </faculty17>
+    
+    <faculty18>
+        <name> david</name>
+        <desigmation>senior faculty</desigmation>
+
+    </faculty18>
+    <faculty19>
+        <name>larah</name>
+        <desigmation>senior faculty</desigmation>
+
+    </faculty19>
+    <faculty20>
+        <name>blue </name>
+        <desigmation>senior faculty</desigmation>
+
+    </faculty20>
+    <faculty21>
+        <name>javed</name>
+        <desigmation>senior faculty</desigmation>
+
+    </faculty21>
+    <faculty22>
+        <name>saud</name>
+        <desigmation>senior faculty</desigmation>
+
+    </faculty22>
+    <faculty23>
+        <name> asad</name>
+        <desigmation>senior faculty</desigmation>
+
+    </faculty23>
+    <faculty24>
+        <name> iqra</name>
+        <desigmation>senior faculty</desigmation>
+
+    </faculty24>
+   
+    
+    <faculty25>
+        <name> karan</name>
+        <desigmation>senior faculty</desigmation>
+
+    </faculty25>
+    <faculty26>
+        <name> kiran</name>
+        <desigmation>senior faculty</desigmation>
+
+    </faculty26>
+    <faculty27>
+        <name> zara</name>
+        <desigmation>senior faculty</desigmation>
+
+    </faculty27>
+    <faculty28>
+        <name> zura</name>
+        <desigmation>senior faculty</desigmation>
+
+    </faculty28>
+    <faculty29>
+        <name> emaan</name>
+        <desigmation>senior faculty</desigmation>
+
+    </faculty29>
+    <faculty30>
+        <name> haroon</name>
+        <desigmation>senior faculty</desigmation>
+
+    </faculty30>
+
+<!-- networking -->
+
+    <networking>
+        <faculty>
+            <name> sana</name>
+            <timing>9 to 5</timing>
+    
+        </faculty>
+        <faculty2>
+            <name> ali</name>
+            <timing>9 to 5</timing>
+    
+        </faculty2>
+        <faculty3>
+            <name> sara</name>
+            <timing>9 to 5</timing>
+    
+        </faculty3>
+        <faculty4>
+            <name> sarah</name>
+            <timing>9 to 5</timing>
+    
+        </faculty4>
+        <faculty5>
+            <name> anas</name>
+            <timing>9 to 5</timing>
+    
+        </faculty5>
+        <faculty6>
+            <name> hamza</name>
+            <timing>9 to 5</timing>
+    
+        </faculty6>
+        <faculty7>
+            <name> hina</name>
+            <timing>9 to 5</timing>
+    
+        </faculty7>
+        <faculty8>
+            <name> hira</name>
+            <timing>9 to 5</timing>
+    
+        </faculty8>
+        <faculty9>
+            <name> kinza</name>
+            <timing>9 to 5</timing>
+    
+        </faculty9>
+        <faculty10>
+            <name> iman</name>
+            <timing>9 to 5</timing>
+    
+        </faculty10>
+        <faculty11>
+            <name> mahnnor</name>
+             <timing>9 to 5</timing>
+    
+        </faculty11>
+        <faculty11>
+            <name> adnan</name>
+             <timing>9 to 5</timing>
+    
+        </faculty11>
+        <faculty12>
+            <name> fiza</name>
+            <timing>9 to 5</timing>
+    
+        </faculty12>
+        <faculty13>
+            <name> sami</name>
+            <timing>9 to 5</timing>
+    
+        </faculty13>
+        <faculty14>
+            <name> fasial</name>
+            <timing>9 to 5</timing>
+    
+        </faculty14>
+        <faculty15>
+            <name> raza</name>
+            <timing>9 to 5</timing>
+    
+        </faculty15>
+        <faculty16>
+            <name> azan</name>
+            <timing>9 to 5</timing>
+    
+        </faculty16>
+        <faculty17>
+            <name>lucky</name>
+            <timing>9 to 5</timing>
+    
+        </faculty17>
+        
+        <faculty18>
+            <name> david</name>
+            <timing>9 to 5</timing>
+    
+        </faculty18>
+        <faculty19>
+            <name>larah</name>
+            <timing>9 to 5</timing>
+    
+        </faculty19>
+        <faculty20>
+            <name>blue </name>
+            <timing>9 to 5</timing>
+    
+        </faculty20>
+      
+    </networking>
+</aptech>

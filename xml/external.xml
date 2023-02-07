@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bio SYSTEM "externam.dtd"
+[
+<!ENTITY abc "121">
+]
+>
+
+<bio>
+    <students>
+        <name dtd2="aptech">&abc;ali</name>
+        <age>22</age>
+        <qulification>MBA</qulification>
+    </students>
+
+
+    <empolyee>
+        <name>ali</name>
+        <age>22</age>
+        <qulification>MBA</qulification>
+        <salary>70000</salary>
+    </empolyee>
+
+</bio>
