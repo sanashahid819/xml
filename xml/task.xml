@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE company SYSTEM "task.dtd">
+<company>
+  <employee>
+    <name>sana</name>
+    <email task="s.sroyaltybrand">sanaashahid@gmail.com</email>
+    <password>pass1122</password>
+  </employee>
+  <client>
+    <name>sana</name>
+    <email task="s.sroyaltybrand">sanaashahid@gamil.com</email>
+    <password>pass1122</password>
+  </client>
+</company>
